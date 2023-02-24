@@ -1,0 +1,16 @@
+body{
+    background:hotpink;
+}
+.clock{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    color: white;
+    background-color: indigo;
+    padding: 10px 40px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px 0px rgba(190, 192, 189, 0.196);
+    font-size: 30px;
+    letter-spacing: 7px;
+}
